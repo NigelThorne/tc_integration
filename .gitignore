@@ -1,12 +1,23 @@
-# rcov generated
+*.gem
+*.rbc
+.bundle
+.config
 coverage
 coverage.data
 
 # rdoc generated
+InstalledFiles
+lib/bundler/man
+pkg
 rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
 
 # yard generated
 doc
+# YARD artifacts
 .yardoc
 
 # bundler
@@ -47,3 +58,5 @@ pkg
 
 # For rubinius:
 #*.rbc
+_yardoc
+doc/
