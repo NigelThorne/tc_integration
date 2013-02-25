@@ -6,7 +6,7 @@ require 'bundler/version'
  
 Gem::Specification.new do |s|
   s.name              = "tc_integration"  
-  s.version           = "0.0.1"  # i.e. (major,non-backwards compatable).(backwards compatable).(bugfix)
+  s.version           = "0.0.3"  # i.e. (major,non-backwards compatable).(backwards compatable).(bugfix)
   s.platform          = Gem::Platform::RUBY
   s.authors           = ["Nigel Thorne"] 
   s.email             = "github@nigelthorne.com" # optional
