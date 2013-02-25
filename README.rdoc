@@ -1,6 +1,6 @@
 = tc_integration
 
-Description goes here.
+Test Complete integration
 
 == Contributing to tc_integration
  
