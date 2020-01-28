@@ -7,7 +7,7 @@ source "http://rubygems.org"
 # Include everything needed to run rake, tests, features, etc.
 group :development do
   gem "shoulda", ">= 0"
-  gem "rdoc", "~> 3.12"
+  gem "rdoc", "~> 6.2"
   gem "bundler", "~> 1.2.0"
   gem "jeweler", "~> 2.3.9"
   gem "simplecov", ">= 0"
